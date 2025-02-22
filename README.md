@@ -24,7 +24,7 @@
 
 \## 🛠️ Abre y ejecuta el proyecto
 
-**En construcción**
+**<a href="https://juan89dev.github.io/challenge-amigo-secreto/" target="_blank">Ejecute amigo secreto</a>**
 
 ## ✔️ Tecnologías utilizadas.
 - `JavaScrip`
