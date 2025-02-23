@@ -18,6 +18,8 @@
 - `Funcionalidad 2`: Selección de amigos para formar el amigo secreto.
 - `Funcionalidad 3`: Decremento de amigos al realizar elecciones.
 
+  ![Diseño sin título](https://github.com/user-attachments/assets/290d5101-5c70-423a-a078-17dac4976c45)
+
 \## 📁 Acceso al proyecto
 
 **<a href="https://github.com/juan89dev/challenge-amigo-secreto.git" target="_blank">Amigo secreto</a>**
